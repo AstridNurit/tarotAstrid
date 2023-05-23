@@ -1,0 +1,65 @@
+.socio{
+    align-items: center;
+    color:black;
+    margin: 2%;
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.info{
+    text-decoration: none;
+    color:goldenrod;
+}
+
+.info:hover{
+    color:goldenrod;
+    text-decoration: none;
+}
+
+.card2{
+    margin:2%;
+}
+
+.servicios{
+    align-items: center;
+    color:black;
+    margin: 2%;
+    text-decoration: none;
+    display: flex;
+    justify-content:space-around;
+}
+
+.boton{
+    background-color: goldenrod;
+    color:black
+}
+
+.container{
+    margin:10px;
+}
+
+.cursos{
+    display:flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+  text-decoration: none;
+  color:goldenrod;
+}
+
+.textos{
+    color:white;
+    background-color: black;
+    border: 1px solid goldenrod;
+    border-radius: 3px;
+    margin-right: 100px;
+}
+
+
