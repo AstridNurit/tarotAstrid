@@ -63,3 +63,24 @@ a:hover{
 }
 
 
+.container2{
+    font-family: "Reenie Beanie"  ;
+    background-color: goldenrod;
+    color:white;
+    margin:5rem;
+}
+
+
+.imagi{
+    display: flex;
+    justify-content: center;
+}
+
+.quiro{
+    font-family: "Reenie Beanie"  ;
+    padding: 0.5rem;
+    margin:3rem;
+    color:black;
+    background-color: goldenrod;
+}
+
